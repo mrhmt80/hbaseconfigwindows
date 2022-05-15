@@ -1,0 +1,13 @@
+<property>
+  <name>hbase.rootdir</name>  
+  <value>file:///C:/JAVA/hbase-2.4.12/hbase</value>
+</property>
+<property>
+  <name>hbase.zookeeper.property.dataDir</name>  
+  <value>/C:/JAVA/hbase-2.4.12/zookeeper</value>
+</property>
+<property>
+  <name>hbase.zookeeper.quorum</name>
+  <value>localhost</value>
+</property>
+
