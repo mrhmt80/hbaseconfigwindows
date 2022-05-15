@@ -1,0 +1,2 @@
+# hbaseconfigwindows
+HBASE CONFIG WINDOWS DONG BEGADANG 1652022
